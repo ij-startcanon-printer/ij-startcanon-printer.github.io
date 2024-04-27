@@ -1,6 +1,6 @@
 # Ij.Start.Canon
 
-[![ij.start.canon](gett-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](gett-started.png)](https://can.printredir.com)
 
 Canon ij printer is a complete solution for multiple works that you can easily learn to set up from ij.start.canon and get a better experience. This is the official online support site that provides you Canon products’ online manuals, function information, and more. What’s more at the [ij.start.canon](https://ij-startcanon-printer.github.io/) site is download and installation steps for Canon ij setup that is required for the complete Canon set up process. So check out the more steps below.
 
